@@ -1,0 +1,17 @@
+# ssh material must never be published
+id_ed25519
+id_ed25519.pub
+known_hosts
+ssh_wrap.cmd
+*.pem
+*.key
+
+# python
+__pycache__/
+*.py[cod]
+
+# os / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
